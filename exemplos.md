@@ -2,7 +2,7 @@
 
 ### Mais itens e mais complexos
 ````
-itens = {
+objetos = {
     "Lanterna": {"valor": 5, "peso": 1},
     "Bússola": {"valor": 7, "peso": 2},
     "Faca de Sobrevivência": {"valor": 8, "peso": 3},

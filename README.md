@@ -4,9 +4,9 @@ O **Problema da Mochila** (ou *Knapsack Problem*, em inglês) é um desafio fund
 
 ## Exemplo Prático
 
-Suponha que você esteja indo acampar e tem uma mochila com espaço para 20 quilos. Você tem três itens:
+Suponha que você esteja indo acampar e tem uma mochila com espaço para 10. Você tem três itens:
 
-| Item           | Valor | Peso (kg) |
+| Item           | Valor | Peso      |
 |----------------|-------|-----------|
 | Lanterna       | 3     | 2         |
 | Garrafa térmica| 5     | 4         |
